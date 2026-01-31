@@ -3,6 +3,7 @@
 Este projeto é um dashboard interativo desenvolvido em Python para explorar e visualizar tendências salariais globais no mercado de dados. A aplicação permite filtrar informações por senioridade, tipo de contrato, ano e tamanho da empresa, fornecendo insights valiosos sobre a remuneração em diferentes cargos e regiões.
 
 🚀 Tecnologias Utilizadas
+
 Python: Linguagem principal.
 
 Streamlit: Framework para criação da interface web interativa.
@@ -12,9 +13,11 @@ Pandas: Manipulação e tratamento dos dados.
 Plotly Express: Criação de gráficos dinâmicos e mapas.
 
 📊 Funcionalidades e Análises
+
 O dashboard está dividido em seções estratégicas para facilitar a interpretação dos dados:
 
 1. Filtros Dinâmicos (Sidebar)
+   
 Localizados na barra lateral, permitem personalizar toda a visão do dashboard simultaneamente:
 
 Ano: Filtre por períodos específicos.
@@ -26,6 +29,7 @@ Tipo de Contrato: Freelance, Full-time, Part-time ou Contract.
 Tamanho da Empresa: Pequena (S), Média (M) ou Grande (L).
 
 2. Indicadores de Performance (KPIs)
+   
 Exibição direta de métricas fundamentais:
 
 Salário Médio: Média aritmética anual em USD.
@@ -37,6 +41,7 @@ Total de Registros: Volume de profissionais analisados.
 Cargo Mais Frequente: Identificação do título profissional mais comum na amostra.
 
 3. Visualizações Gráficas
+   
 Top 10 Cargos: Gráfico de barras horizontais mostrando as funções com as melhores médias salariais.
 
 Distribuição Salarial: Histograma que revela a concentração de salários e identifica possíveis outliers.
