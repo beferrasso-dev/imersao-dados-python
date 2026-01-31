@@ -14,11 +14,11 @@ O dashboard está dividido em seções estratégicas para facilitar a interpreta
 
 1. Filtros Dinâmicos (Sidebar)
    
-Localizados na barra lateral, permitem personalizar toda a visão do dashboard simultaneamente:
-Ano: Filtre por períodos específicos.
-Senioridade: Analise desde níveis Entry-level até Executive.
-Tipo de Contrato: Freelance, Full-time, Part-time ou Contract.
-Tamanho da Empresa: Pequena (S), Média (M) ou Grande (L).
+1.1 Localizados na barra lateral, permitem personalizar toda a visão do dashboard simultaneamente:
+1.2 Ano: Filtre por períodos específicos.
+1.3 Senioridade: Analise desde níveis Entry-level até Executive.
+1.4 Tipo de Contrato: Freelance, Full-time, Part-time ou Contract.
+1.5 Tamanho da Empresa: Pequena (S), Média (M) ou Grande (L).
 
 2. Indicadores de Performance (KPIs)
    
