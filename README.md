@@ -1,7 +1,7 @@
-Dashboard de Análise de Salários na Área de Dados
+🎲 Dashboard de Análise de Salários na Área de Dados
 Este projeto é um dashboard interativo desenvolvido em Python para explorar e visualizar tendências salariais globais no mercado de dados. A aplicação permite filtrar informações por senioridade, tipo de contrato, ano e tamanho da empresa, fornecendo insights valiosos sobre a remuneração em diferentes cargos e regiões.
 
-Tecnologias Utilizadas
+🚀 Tecnologias Utilizadas
 Python: Linguagem principal.
 
 Streamlit: Framework para criação da interface web interativa.
