@@ -16,6 +16,8 @@ Plotly Express: Criação de gráficos dinâmicos e mapas.
 
 O dashboard está dividido em seções estratégicas para facilitar a interpretação dos dados:
 
+
+
 1. Filtros Dinâmicos (Sidebar)
    
 Localizados na barra lateral, permitem personalizar toda a visão do dashboard simultaneamente:
